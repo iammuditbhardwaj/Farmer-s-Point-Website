@@ -4,3 +4,5 @@
 4. Our Factories
 5. Store
 6. Partners
+7. About Us
+8. FAQ
